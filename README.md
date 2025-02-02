@@ -31,7 +31,7 @@ pip install -r requirements.txt
    ```
 4. Run the application:
    ```sh
-   python app.py
+   python main.py
    ```
 5. Open the Gradio interface in your browser and start analyzing data!
 
