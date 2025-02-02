@@ -1,0 +1,101 @@
+Product,Category,Region,Price,Sales,Date,Revenue
+Product 1,Food,South America,276.57,316,2024-06-28,4909.4
+Product 2,Food,North America,289.84,718,2024-09-23,9013.62
+Product 3,Electronics,Europe,225.58,577,2024-04-27,18223.88
+Product 4,Clothing,South America,190.56,898,2024-10-12,30633.71
+Product 5,Clothing,North America,122.75,838,2023-12-30,47469.3
+Product 6,Electronics,Asia,467.77,32,2024-06-22,2786.92
+Product 7,Food,North America,72.74,397,2024-02-28,11354.73
+Product 8,Electronics,South America,479.69,433,2024-07-28,48358.63
+Product 9,Food,Europe,114.54,538,2024-06-05,10182.43
+Product 10,Clothing,North America,79.45,581,2024-09-21,3265.23
+Product 11,Clothing,Europe,98.53,205,2024-02-03,48976.88
+Product 12,Electronics,South America,122.96,285,2024-04-16,34057.66
+Product 13,Clothing,North America,281.7,357,2024-03-16,32686.5
+Product 14,Food,South America,191.32,599,2024-11-08,49728.98
+Product 15,Electronics,Europe,497.9,216,2024-10-25,2572.75
+Product 16,Electronics,Asia,390.94,329,2024-07-14,19174.05
+Product 17,Electronics,North America,371.24,22,2024-10-26,32953.18
+Product 18,Clothing,South America,202.27,436,2024-09-26,46383.81
+Product 19,Electronics,Asia,247.62,135,2024-10-03,3388.74
+Product 20,Food,South America,267.8,692,2024-03-22,4503.78
+Product 21,Clothing,Asia,59.04,772,2024-10-12,22360.03
+Product 22,Books,Asia,329.61,294,2024-07-21,34068.76
+Product 23,Books,Asia,106.75,907,2024-06-29,24360.44
+Product 24,Electronics,South America,94.11,697,2024-03-06,40831.88
+Product 25,Clothing,South America,299.77,399,2024-09-29,47797.59
+Product 26,Electronics,North America,257.46,510,2024-08-07,8456.92
+Product 27,Clothing,North America,203.84,764,2024-03-10,17121.35
+Product 28,Electronics,North America,113.44,77,2024-11-19,17353.24
+Product 29,Clothing,South America,122.11,786,2024-10-09,20641.35
+Product 30,Food,North America,401.08,142,2024-01-23,22094.58
+Product 31,Food,Asia,272.8,913,2024-03-03,48237.75
+Product 32,Electronics,South America,107.67,672,2024-02-09,31105.43
+Product 33,Clothing,Europe,63.32,107,2024-11-04,27871.56
+Product 34,Clothing,South America,289.91,950,2024-06-28,17128.82
+Product 35,Clothing,North America,342.17,737,2024-11-09,41957.63
+Product 36,Electronics,North America,11.42,864,2024-03-03,41446.46
+Product 37,Clothing,Europe,274.86,519,2024-11-27,33209.07
+Product 38,Books,South America,494.16,908,2024-05-09,28901.01
+Product 39,Books,South America,215.75,15,2024-04-08,34077.53
+Product 40,Electronics,Europe,242.83,8,2024-04-06,5207.1
+Product 41,Food,Europe,273.33,684,2024-09-18,9360.3
+Product 42,Clothing,South America,203.1,565,2024-05-19,22406.77
+Product 43,Electronics,Europe,15.51,418,2024-08-09,5915.21
+Product 44,Food,South America,406.09,339,2024-03-19,9436.73
+Product 45,Clothing,Asia,134.12,314,2024-03-05,42115.16
+Product 46,Electronics,Europe,93.68,441,2024-06-29,3236.92
+Product 47,Books,South America,187.81,934,2024-02-04,46454.06
+Product 48,Food,Asia,288.14,1,2024-04-08,45964.66
+Product 49,Clothing,North America,351.28,842,2024-08-18,12568.43
+Product 50,Food,Europe,126.0,27,2024-07-02,32576.04
+Product 51,Food,Asia,95.42,746,2024-07-01,45750.37
+Product 52,Books,North America,468.87,215,2024-02-23,28767.25
+Product 53,Clothing,South America,66.62,207,2024-04-28,10695.24
+Product 54,Books,Europe,364.84,932,2024-08-12,9886.72
+Product 55,Food,Asia,486.25,62,2024-11-13,32196.85
+Product 56,Books,South America,97.5,841,2024-07-19,33501.34
+Product 57,Clothing,North America,248.58,566,2024-02-16,31118.36
+Product 58,Food,Europe,144.11,174,2024-05-18,12429.8
+Product 59,Books,Asia,274.84,185,2024-11-27,42816.36
+Product 60,Electronics,North America,199.87,736,2024-08-25,46377.84
+Product 61,Electronics,South America,273.72,335,2024-02-05,32896.48
+Product 62,Clothing,Asia,48.38,866,2024-02-26,24028.51
+Product 63,Food,Europe,188.51,920,2024-12-13,31349.45
+Product 64,Food,Europe,281.81,889,2024-12-06,20910.88
+Product 65,Books,South America,349.73,678,2024-08-14,12058.15
+Product 66,Food,Asia,19.57,840,2024-03-24,30166.06
+Product 67,Electronics,North America,190.98,491,2024-09-11,39454.29
+Product 68,Electronics,South America,427.94,324,2024-01-02,36954.77
+Product 69,Electronics,North America,23.26,172,2024-08-16,3212.14
+Product 70,Clothing,Europe,223.15,453,2024-07-04,8851.81
+Product 71,Books,North America,170.9,23,2024-08-28,2723.82
+Product 72,Food,Asia,466.87,778,2024-04-09,44222.14
+Product 73,Books,South America,302.81,904,2024-05-16,16519.76
+Product 74,Clothing,South America,206.9,490,2024-07-12,44757.44
+Product 75,Food,North America,137.8,965,2024-10-03,6063.45
+Product 76,Books,Europe,182.25,498,2024-12-04,38532.89
+Product 77,Clothing,Europe,45.66,228,2024-06-14,23926.78
+Product 78,Electronics,South America,400.38,905,2024-10-12,8247.01
+Product 79,Electronics,Europe,196.97,241,2024-03-13,28628.75
+Product 80,Electronics,Europe,321.54,759,2024-10-18,22202.61
+Product 81,Books,Europe,339.31,605,2024-09-11,7383.79
+Product 82,Food,South America,122.92,649,2024-05-02,49569.33
+Product 83,Food,South America,131.84,654,2024-08-23,43373.49
+Product 84,Books,Asia,137.3,560,2024-07-21,22759.02
+Product 85,Food,Asia,189.54,943,2024-10-31,45986.26
+Product 86,Books,South America,293.94,816,2024-05-24,6841.83
+Product 87,Books,Europe,162.84,875,2024-06-06,21912.73
+Product 88,Clothing,South America,181.43,929,2024-06-18,15536.85
+Product 89,Clothing,Europe,166.79,958,2024-10-31,33583.85
+Product 90,Electronics,North America,464.08,275,2024-05-24,40438.31
+Product 91,Food,North America,271.61,211,2024-09-18,29027.55
+Product 92,Books,Asia,335.7,62,2024-09-01,6397.99
+Product 93,Clothing,North America,401.59,621,2024-03-11,33112.73
+Product 94,Books,South America,263.38,774,2023-12-27,28246.97
+Product 95,Clothing,North America,18.02,963,2024-05-04,45497.84
+Product 96,Electronics,Asia,491.97,524,2024-08-15,39521.37
+Product 97,Food,Asia,49.25,968,2024-12-04,46888.81
+Product 98,Books,Europe,264.15,218,2024-11-12,48168.72
+Product 99,Books,North America,476.69,272,2024-01-27,12921.19
+Product 100,Food,South America,344.96,148,2024-04-08,35440.02
