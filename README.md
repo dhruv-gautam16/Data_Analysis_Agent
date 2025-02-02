@@ -35,6 +35,8 @@ pip install -r requirements.txt
    ```
 5. Open the Gradio interface in your browser and start analyzing data!
 
+6. For direct testing, you can open this notebook and input your OpenAI API key. The rest of the process will be automated: [Colab Notebook Link](https://colab.research.google.com/drive/1Kri-AjHUIEE8opM25wWM0LujyR6C6HmJ?usp=sharing)
+
 ## Sample Queries and Results
 Below are sample queries along with their respective results. The results are stored as images in the `images/` folder.
 
